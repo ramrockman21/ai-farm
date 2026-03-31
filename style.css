@@ -1,0 +1,27 @@
+body {
+    font-family: Arial;
+    background: #e8f5e9;
+    text-align: center;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+input, select {
+    padding: 10px;
+    margin: 10px;
+}
+
+button {
+    padding: 10px;
+    margin: 5px;
+    background: green;
+    color: white;
+    border: none;
+}
+
+#answer {
+    margin-top: 20px;
+    font-size: 18px;
+}

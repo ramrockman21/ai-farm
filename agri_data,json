@@ -1,0 +1,17 @@
+[
+  {
+    "crop": "banana",
+    "problem": "leaf spot",
+    "solution": "Spray Mancozeb 2g per liter of water every 7 days."
+  },
+  {
+    "crop": "rice",
+    "problem": "yellow leaves",
+    "solution": "Apply urea fertilizer in recommended dosage."
+  },
+  {
+    "crop": "tomato",
+    "problem": "pest attack",
+    "solution": "Use neem oil spray or Imidacloprid pesticide."
+  }
+]
